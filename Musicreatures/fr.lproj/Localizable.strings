@@ -1,0 +1,77 @@
+/* 
+  Localizable.strings
+  Musicreatures
+
+  Created by Petri J Myllys on 10/02/15.
+  Copyright (c) 2015 University of Helsinki. All rights reserved.
+*/
+
+/*  Labels  */
+
+/* Main title of the app, not to be localized */
+"Musicreatures" = "Musicreatures";
+/* A welcome message. Should be maximum three words if possible. */
+"Welcome to Musicreatures" = "Bienvenue sur Musicreatures";
+/* A term as short as possible indicating the game has been paused */
+"Paused" = "Pause";
+/* A term as short as possible indicating a result the user requested is being prepared */
+"Preparing" = "Préparation";
+/* A short message indicating a photo taken by the user is being prepared for use */
+"Preparing your photo" = "Préparation de votre photo";
+/* A loading message, should be casual but informative */
+"Getting things ready" = "Chargement";
+/* A polite suggestion for the user to introduce themselves to the app. Phrasing should not force the user to do as requested; this is the first message the user will see upon first app launch, and the tutorial the message is implicitly about can be skipped. */
+"Please learn" = "Apprenez rapidement les bases de Musicréature.";
+
+/*  Buttons */
+
+/* A play button in the main menu. Should be one word if possible. */
+"Play" = "Jouer";
+/* A tutorial button in the main menu. Should indicate learning. Should be one word if possible. */
+"Learn" = "Tutoriel";
+/* A back button. Should be one word if possible. */
+"Back" = "Retour";
+/* A short term for a button that presents information about the application */
+"About Musicreatures" = "A propos";
+/* A short term for a button that takes the user to a website with more information on the subject. The button is situated below a text about the app: therefore, phrasing should indicate the website is "owned" by the app developer (e.g. "our" website). */
+"Website" = "En savoir plus sur le site web";
+/* A term as short as possible for cancelling. Should indicate that the cancelling will cancel tutorial. */
+"Cancel tutorial" = "Quitter le tutoriel";
+/* A term as short as possible for continuing (unpausing from an in-game pause menu) */
+"Continue" = "Reprendre";
+/* A term as short as possible for taking a new photo */
+"New photo" = "Nouvelle photo";
+/* A term as short as possible for returning to main menu */
+"Main menu" = "Menu principal";
+/* A term as short and possible for stopping the game (the music) and sharing it with others */
+"Stop and share" = "Arrêter & Partager";
+/* A button that skips the sharing the user has initiated (sharing includes processing that takes time). Pressing this button will skip the whole sharing. */
+"Skip sharing" = "Annuler le partage";
+/* A button for skipping a tutorial suggested for the user. Should be one word if possible. */
+"Skip" = "Passer";
+/* A term equivalent to "Ok". Should be "Ok" if it fits the language. */
+"Ok" = "Ok";
+/* A butten the user uses for confirming that a subject introduced in the tutorial is understood. */
+"Got it!" = "J'ai compris!";
+
+/*  Tutorial: these strings should be translated as literally as possible, and should be kept as short as possible (preferably shorter or as short as the English versions).    */
+
+"CreateGroupHelp" = "Avec Musicreatures, vous créez de la musique en contrôlant des bulles musicales. Essayez d'en créer quelques unes en touchant l'écran.";
+"MovingHelp" = "Incliner le téléphone déplace les bulles.";
+"ColorHelp" = "Les bulles jouent des notes différentes selon le fond d'écran.";
+"ScatterHelp" = "Vous pouvez dissoudre les groupes en déplaçant rapidement le téléphone.";
+"PulseHelp" = "Collecter une note transforme une bulle en groupe, et accelère le rythme de la musique. Les notes apparaîssent automatiquement du haut de l'écran.";
+"RestHelp" = "Collecter une pause ralentit le rythme de la chanson. Les pauses proviennent aussi automatiquement du haut de l'écran.";
+"ImprovisationHelp" = "Appuyez sur l'écran et secouez le téléphone pour improviser. Dans ce mode, vous pouvez contrôler le rythme et jouer quelques percussions en secouant le téléphone. Ce mode restera actif tant que vous garderez votre doigt sur l'écran.";
+"ImprovisationGesturesHelp" = "Dans le mode improvisation, de fortes secousses vont augmenter le rythme tandis que de plus lentes secousses vont l'adoucir.";
+"LifespanHelp" = "Chaque bulle a une durée de vie limitée, et disparaît quand il est écoulé.";
+"ReadyHelp" = "Une dernière chose : la musique créée dépend des couleurs du fond d'écran. Maintenant, commencez votre propre chanson en prenant une photo pour le fond d'écran.";
+"CreateMoreGroupsHelp" = "Collecter une pause alors qu'il n'y avait qu'une seule bulle va faire disparaître la bulle. Créez quelques bulles supplémentaires en touchant l'écran.";
+"CameraHelp" = "Pour réellement personnaliser votre musique, commencez par prendre une photo.";
+"Congratulations!" = "Félicitation !";
+"Tutorial completed" = "Vous savez maintenant tout sur le jeu Musicreatures.";
+
+/*  About: information about the application    */
+
+"Discovery" = "Petri Myllys, Discovery Group,\nDepartment of Computer Science,\nUniversity of Helsinki\n\nLe groupe de recherche \"Discovery\" développe de nouvelles méthodes et des outils innovants pour la science des données, et pour la créativité informatique. A l'intersection de ces champs, ils inventent des systèmes créatifs et des applications qui apprennent à créer.";
+"Link" = "http://www.cs.helsinki.fi/en/discovery";

@@ -1,0 +1,77 @@
+/* 
+  Localizable.strings
+  Musicreatures
+
+  Created by Petri J Myllys on 10/02/15.
+  Copyright (c) 2015 University of Helsinki. All rights reserved.
+*/
+
+/*  Labels  */
+
+/* Main title of the app, not to be localized */
+"Musicreatures" = "音乐生物";
+/* A welcome message. Should be maximum three words if possible. */
+"Welcome to Musicreatures" = "欢迎你";
+/* A term as short as possible indicating the game has been paused */
+"Paused" = "暂停中";
+/* A term as short as possible indicating a result the user requested is being prepared */
+"Preparing" = "准备中";
+/* A short message indicating a photo taken by the user is being prepared for use */
+"Preparing your photo" = "照片准备中";
+/* A loading message, should be casual but informative */
+"Getting things ready" = "启动中";
+/* A polite suggestion for the user to introduce themselves to the app. Phrasing should not force the user to do as requested; this is the first message the user will see upon first app launch, and the tutorial the message is implicitly about can be skipped. */
+"Please learn" = "看一下音乐制作小教程吗？";
+
+/*  Buttons */
+
+/* A play button in the main menu. Should be one word if possible. */
+"Play" = "玩音乐";
+/* A tutorial button in the main menu. Should indicate learning. Should be one word if possible. */
+"Learn" = "教程";
+/* A back button. Should be one word if possible. */
+"Back" = "返回";
+/* A short term for a button that presents information about the application */
+"About Musicreatures" = "关于";
+/* A short term for a button that takes the user to a website with more information on the subject. The button is situated below a text about the app: therefore, phrasing should indicate the website is "owned" by the app developer (e.g. "our" website). */
+"Website" = "更多信息";
+/* A term as short as possible for cancelling. Should indicate that the cancelling will cancel tutorial. */
+"Cancel tutorial" = "退出教程";
+/* A term as short as possible for continuing (unpausing from an in-game pause menu) */
+"Continue" = "继续";
+/* A term as short as possible for taking a new photo */
+"New photo" = "拍照";
+/* A term as short as possible for returning to main menu */
+"Main menu" = "主菜单";
+/* A term as short and possible for stopping the game (the music) and sharing it with others */
+"Stop and share" = "停止和分享";
+/* A button that skips the sharing the user has initiated (sharing includes processing that takes time). Pressing this button will skip the whole sharing. */
+"Skip sharing" = "不分享";
+/* A button for skipping a tutorial suggested for the user. Should be one word if possible. */
+"Skip" = "跳过";
+/* A term equivalent to "Ok". Should be "Ok" if it fits the language. */
+"Ok" = "OK";
+/* A butten the user uses for confirming that a subject introduced in the tutorial is understood. */
+"Got it!" = "知道了!";
+
+/*  Tutorial: these strings should be translated as literally as possible, and should be kept as short as possible (preferably shorter or as short as the English versions).    */
+
+"CreateGroupHelp" = "在‘音乐生物’，你可以用音乐斑点做音乐。尝试通过点击屏幕来创建一些斑点。";
+"MovingHelp" = "倾斜手机能移动斑点。";
+"ColorHelp" = "斑点根据自己的背景色扮演不同的音符。";
+"ScatterHelp" = "也可以快速移动手机来打散斑点组。";
+"PulseHelp" = "收集一个'脉冲'使斑点变成一组和节奏变快。脉冲从屏幕的顶部自动出现。";
+"RestHelp" = "收集一个'休息'使节奏变慢。休息也从屏幕的顶部自动出现。";
+"ImprovisationHelp" = "按住屏幕的同时晃动手机来即兴奏音乐。你可以控制和音和打击乐器。即兴模式将继续只要你的手指保持在屏幕上。";
+"ImprovisationGesturesHelp" = "在即兴模式，剧烈晃动手机会推动和弦，轻轻摇晃使和音更轻松。";
+"LifespanHelp" = "每个斑点寿命有限。当时机成熟，他们就会消失。";
+"ReadyHelp" = "最后，音乐的整体感觉是由背景图像的色彩决定。现在，拍摄一张背景照片来启动你的音乐创作吧。";
+"CreateMoreGroupsHelp" = "一个孤立的斑点收集休息会使自己消失。点击屏幕来多创建几个斑点。";
+"CameraHelp" = "创造自己的音乐，请从拍照开始吧。";
+"Congratulations!" = "祝贺你！";
+"Tutorial completed" = "现在你知道所有的‘音乐生物’的玩法。";
+
+/*  About: information about the application    */
+
+"Discovery" = "Petri Myllys, Discovery Group,\nDepartment of Computer Science,\nUniversity of Helsinki\n\n‘发现’研究小组为数据科学和计算创造力领域开发新的方法和工具。在这些领域的交叉点，我们开发能够学习创造的系统和应用。";
+"Link" = "http://www.cs.helsinki.fi/en/discovery";

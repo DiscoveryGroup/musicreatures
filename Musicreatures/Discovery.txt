@@ -1,0 +1,5 @@
+Petri Myllys, Discovery Group,
+Department of Computer Science, 
+University of Helsinki
+
+The Discovery research group develops novel methods and tools for data mining and computational creativity. Our focus is on algorithmic methods for discovering links and patterns in data and on their use in creative systems.

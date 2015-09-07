@@ -1,0 +1,56 @@
+/*
+ Localizable.strings
+ Musicreatures
+ 
+ Created by Petri J Myllys on 10/02/15.
+ Copyright (c) 2015 University of Helsinki. All rights reserved.
+ */
+
+/*  Labels  */
+
+"Musicreatures" = "Musicreatures";
+"Welcome to Musicreatures" = "Tervetuloa Musicreaturesiin";
+"Paused" = "Tauolla";
+"Preparing" = "Valmistellaan";
+"Preparing your photo" = "Valmistellaan valokuvaasi";
+"Getting things ready" = "Valmistellaan asioita";
+"Please learn" = "Ole hyvä ja käytä hetki oppiaksesi perusteet musiikin tekemisestä Musicreaturesilla.";
+
+/*  Buttons */
+
+"Play" = "Soita";
+"Learn" = "Ohjeistus";
+"Back" = "Takaisin";
+"About Musicreatures" = "Tietoja Musicreaturesista";
+"Website" = "Lue lisää internetsivultamme";
+"Cancel tutorial" = "Keskeytä ohjeistus";
+"Continue" = "Jatka";
+"New photo" = "Uusi valokuva";
+"Main menu" = "Päävalikko";
+"Stop and share" = "Pysäytä & jaa";
+"Skip sharing" = "Ohita jakaminen";
+"Skip" = "Ohita";
+"Ok" = "Ok";
+"Got it!" = "Selvä!";
+
+/*  Tutorial    */
+
+"CreateGroupHelp" = "Musicreaturesissa musiikkia tehdään liikuttelemalla musikaalisia palloja. Kokeile muutaman pallon luomista napauttelemalla näyttöä.";
+"MovingHelp" = "Puhelimen kallistaminen liikuttaa palloja.";
+"ColorHelp" = "Pallot soittavat eri ääniä niiden taustalla olevasta väristä riippuen.";
+"ScatterHelp" = "Voit lisäksi hajottaa ryhmät erilleen liikuttamalla puhelinta nopeasti.";
+"PulseHelp" = "Pulssin kerääminen muuttaa sen keränneen pallon palloryhmäksi ja tihentää rytmiä. Pulssit ilmestyvät itsestään näytön yläreunasta.";
+"RestHelp" = "Tauon kerääminen tekee rytmistä harvemman. Myös tauot ilmestyvät itsestään näytön yläreunasta.";
+"ImprovisationHelp" = "Pidä sormeasi näytöllä ja heilauttele puhelinta improvisoidaksesi. Improvisaatiotilassa voit ohjata harmoniaa ja soittaa perkussiosoittimia heilauttelemalla puhelinta. Improvisaatiotila pysyy päällä kunnes päästät sormesi irti näytöstä.";
+"ImprovisationGesturesHelp" = "Improvisaatiotilassa voimakkaat heilautukset saavat aikaan voimakkaita sointumuutoksia. Vaimeasti heilautteleminen puolestaan rauhoittaa äänimaisemaa.";
+"LifespanHelp" = "Jokaisella ryhmällä on rajoitettu elinikä. Kun aika on kypsä, ne katoavat.";
+"ReadyHelp" = "Vielä viimeinen asia: taustakuva vaikuttaa musiikin yleiseen tunnelmaan. Aloita nyt oma musiikkikappaleesi ottamalla valokuva taustaksi.";
+"CreateMoreGroupsHelp" = "Tauon kerääminen yksittäisellä pallolla hävitti pallon kokonaan. Luo muutama uusi pallo napauttelemalla näyttöä.";
+"CameraHelp" = "Aloita ottamalla valokuva tehdäksesi musiikista aivan omasi.";
+"Congratulations!" = "Onnittelut!";
+"Tutorial completed" = "Tiedät nyt kaiken tarvittavan soittaaksesi Musicreaturesia.";
+
+/*  About    */
+
+"Discovery" = "Petri Myllys, Discovery-ryhmä,\nTietojenkäsittelytieteen laitos,\nHelsingin yliopisto\n\nDiscovery-tutkimusryhmä kehittää uusia datatieteen ja laskennallisen luovuuden menetelmiä ja työkaluja. Näiden aluiden leikkauksessa ryhmä kehittää järjestelmiä jotka oppivat luoviksi.";
+"Link" = "http://www.cs.helsinki.fi/en/discovery";
