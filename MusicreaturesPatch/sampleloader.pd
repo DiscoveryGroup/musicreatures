@@ -1,0 +1,5 @@
+#N canvas 495 693 143 148 10;
+#X obj -115 19 soundfiler;
+#X obj -115 -21 r loadSample;
+#X obj -114 -76 sampletables-subset;
+#X connect 1 0 0 0;
