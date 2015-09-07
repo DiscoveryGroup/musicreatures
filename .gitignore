@@ -1,0 +1,23 @@
+# Exclude user-specific XCode files
+build/
+*.pbxuser
+*.mode1
+*.mode1v3
+*.mode2v3
+*.perspective
+*.perspectivev3
+*.xcuserstate
+*.xcworkspace
+*.xccheckout
+*.moved-aside
+xcuserdata
+scratch
+DerivedData
+
+# Exclude OS X folder attributes
+.DS_STORE
+
+# Exclude temp files
+*.swp
+*~.nib
+._*

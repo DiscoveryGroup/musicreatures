@@ -1,0 +1,6 @@
+[submodule "libs/libpd"]
+	path = libs/libpd
+	url = https://github.com/libpd/libpd.git
+[submodule "libs/GPUImage"]
+	path = libs/GPUImage
+	url = https://github.com/BradLarson/GPUImage.git
